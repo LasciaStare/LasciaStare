@@ -1,8 +1,8 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ne2xikyvcdyvhj6upuyytxfjmm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ne2xikyvcdyvhj6upuyytxfjmm&redirect=true)
 <!-- Encabezado -->
 <p align="center">
   <img src="https://cdn.hswstatic.com/gif/fractal-update1.jpg" alt="Banner de bienvenida" width="800"/>
 </p>
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ne2xikyvcdyvhj6upuyytxfjmm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=924eb1&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ne2xikyvcdyvhj6upuyytxfjmm&redirect=true)
 <!-- Título y subtítulo -->
 <h1 align="center">¡Hola! Soy José 👋</h1>
 <h3 align="center">Un científico de datos apasionado por extraer conocimiento de los datos.</h3>
